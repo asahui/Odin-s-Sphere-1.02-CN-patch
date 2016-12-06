@@ -1,0 +1,30 @@
+Pkg解包:
+PkgViewer
+
+
+解包工具:
+w酱的CriPakGUI，但封包进行patch后的pak文件游戏不识别
+当然用CRI Packed File Maker Ver.1.36.00也行
+
+封包工具:
+CRI Packed File Maker Ver.1.36.00
+
+字库识别:
+noesisv4206 + tex_DragonsCrown_ftx
+
+
+十六进制编辑器与tile字库查看:
+WinHex
+CrystalTile2
+
+
+PKG生成
+TrueAncestor_PKG_Repacker_v2.45
+
+
+EBOOT.BIN 解密
+fail0verflow_ps3tools_win32
+scetool_v0.3.1
+
+综合工具
+ps3tools 
